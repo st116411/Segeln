@@ -13,3 +13,4 @@ Die große Sicherheitseinweisung sollte am Folgetag der kleinen Sicherheitseinwe
 - [Seeventile](/Sicherheitseinweisung/Seeventile.md)
 - [Lenzensystem](/Sicherheitseinweisung/Lenzensystem.md)
 - [MOB](/Sicherheitseinweisung/MOB.md)
+- [Feuerbekämpfungsmittel](/Sicherheitseinweisung/Feuerbekämpfungsmittel.md)
