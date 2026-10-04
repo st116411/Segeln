@@ -1,4 +1,4 @@
-# Rettungsinsel, Verlassen des Schiffes
+# Rettungsinsel
 Jedes Crewmitglied muss wissen wo die Rettungsboje zu finden ist und wie diese funktioniert. Die Boje ist selbstauflösend bei Wasserkontakt. Sie muss jedoch vorher am Schiff festgemacht werden. Beim Verlassen des Schiffs muss folgendes mitgenommen werdem
 - **Kommunikation & Signale:** Handfunktunkgerät, Notfunkbaken (EPIRB, PLB, SART) und Seenotsignale (Fallschirmraketen, Rauchsignale).
 - **Persönliche Dokumente & Geld:** Personalausweis, Reisepass, Krankenkassenkarte und etwas Bargeld in einer wasserdichten Hülle.

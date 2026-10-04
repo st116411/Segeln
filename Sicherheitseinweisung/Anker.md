@@ -1,0 +1,2 @@
+# Anker
+Der Anker im Bug des Schiffes wird über die Ankerwinsch betrieben. Die Ankerwinsch ist ein Verbraucher am 12V-Bordnetz. Der Anker sollte nur geborgen oder gesetzt werden wenn der Motor an ist, damit die Winsch nicht die Verbraucherbatterie belastet. Der Anker wird kann an der Winsch direkt bedient werden oder vom Cockpit aus. Die Ankerwinsch wird zusätzlich über eine Sicherung deaktiviert werden.
