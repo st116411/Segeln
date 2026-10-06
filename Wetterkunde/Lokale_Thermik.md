@@ -32,8 +32,26 @@ Die Bora (kroatisch Bura, slowenisch Burja) ist ein extrem starker, kalter und t
   
 ### Arten der Bora
 
-- Schwarze Bora (zyklonale Bora): Entsteht bei einem dominante Tiefdruckgebiet über Oberitalien. Sie wird oft von dunklen Wolken, Regen oder Schnee begleitet. Die schwarze Boa trifft vorallem im Winter auf.
-- Weiße Bora (antizyklonale Bora): Wird durch ein kräftiges Hochdruckgebiet im osteuropäischen Binnenland ausgelöst und weht bei strahlend blauem Himmel und Sonnenschein, ist aber dennoch eiskalt. Die weiße Boa tritt vorallem im Sommer auf.
-- Beide Bora Arten noch besser beschreiben!
+- Schwarze Bora (zyklonale Bora): Entsteht bei einem dominante Tiefdruckgebiet über Oberitalien. Sie wird oft von dunklen Wolken, Regen oder Schnee begleitet. Die schwarze Boa trifft vorallem im Winter auf. Gleichzeitig befindet sich ein Hochdruckgebiet mit kalter Luft in in Nordwesteuropa.Beide Gebiete "saugen" kalte Polarluft aus Osteuropa an. Diese Luft sammelt sich beim dinarischen Gebirge. Die Druckdifferenz zwischen dem starken Tiefdruckgebiet auf dem Mittelmeer und der kalten Luft auf dem Balkan erreicht eine kritischen Punkt und kalte Fallwinde sind die Folge. Diese kalten Fallwinde treiben sich unter die heiße Luft auf dem Mittelmeer und es entsteht Stockwerkwolken.
+- Weiße Bora (antizyklonale Bora): Wird durch ein kräftiges Hochdruckgebiet im osteuropäischen Binnenland ausgelöst und weht bei strahlend blauem Himmel und Sonnenschein, ist aber dennoch eiskalt. Die weiße Boa tritt vorallem im Sommer auf. Dieses Hochdruckgebiet bringt kalte Polarluft in den Südwesten an das dinarische Gebierge. Die kalte Luft sammelt sich dort und der Druckunterschied zwischen Land und See erreicht einen kritischen Punkt. Ein Tiefdruckgebiet auf dem Mittelmeer ist nicht zwingend notwendig.
  
-## Juga
+## Jugo
+
+Der Jugo (kroatisch für „Südwind“, im italienischen Sprachraum auch als Scirocco oder Široko bekannt) ist das exakte meteorologische Gegenteil zur kalten, böigen Bora. Er ist ein warmer, feuchter und sehr stetiger Wind aus südöstlicher bis südlicher Richtung, der die gesamte Adria beherrscht. Der Jugo baut sich im Gegensatz zur Bora meist langsam über Tage hinweg auf, hält dann aber oft tagelang an. 
+
+
+## Entstehung des Jugo
+Das Phänomen entsteht durch das Zusammenspiel zweier großer Drucksysteme:
+   1. Ein starkes Tiefdruckgebiet über dem westlichen Mittelmeer oder Nordafrika (z. B. ein Genuatief).
+   2. Ein Hochdruckgebiet über dem östlichen Mittelmeer oder der Balkanhalbinsel.
+
+Dieses System saugt heiße, extrem trockene Kontinentalluft direkt aus der Sahara an. Auf ihrem Weg nach Norden zieht diese Luftmasse über das warme Mittelmeer und die Adria. Dabei nimmt sie enorme Mengen an Feuchtigkeit auf. Wenn sie schließlich auf die kroatische Inselwelt und die Steilküsten trifft, ist sie warm, schwül und mit Wolken beladen.
+
+## Arten des Jugo
+Ähnlich wie bei der Bora unterscheidet man auch hier zwei Varianten: 
+
+* Zyklonaler (Tiefdruckgebiet) Jugo (Die "schmutzige" Variante): Dies ist die häufigste Form, besonders im Herbst und Winter. Sie bringt dichte, dunkle Wolken, anhaltenden Starkregen und oft Gewitter. Ein faszinierendes Merkmal: Da der Wind Wüstensand aus Afrika mitbringt, wäscht der Regen diesen aus – zurück bleibt eine feine, gelb-braune Sandschicht auf Booten, Autos und Häusern. 
+* 
+* Antizyklonaler (Hochdruckgebiet )Jugo (Der "trockene" Jugo): Tritt eher im Frühjahr auf. Hierbei bleibt der Himmel oft klar oder nur leicht diesig, es regnet nicht, aber der Wind ist dennoch sehr warm, spürbar feucht und nimmt im Tagesverlauf mit der Sonneneinstrahlung an Fahrt auf.
+
+Wichtig: Da der Jugo sich über die gesamte Adria aufbaut und Wassermassen in die Adira geschiben werden. Haben die Wellen eine Dünung. Sprich die Welle eilt dem Wind vorraus! Das Wellenbild passt nicht zum Wind.
