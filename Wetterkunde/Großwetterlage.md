@@ -2,15 +2,14 @@
 Die Großwetterlage ist ein großräumiger Luftdruck- und Strömungszustand, der das Wetter in einer Region über mehrere Tage oder Wochen hinweg prägt. Dabei spielen die Verteilung und Bewegung von Hoch- und Tiefdruckgebieten die Hauptrolle.
 
 ## Tiefdruckgebiet
-
-Tiefdruckgebiete gehören zu den prägendsten Akteuren im Wettergeschehen. In der Meteorologie werden sie zunächst nach ihrer Entstehungsart eingeordnet. Darüber hinaus unterscheidet man zwischen stationären Zyklonen, die über längere Zeit an einem Ort verharren, und wandernden Zyklonen, die sich mit der Höhenströmung über weite Strecken verlagern. Besonders charakteristisch sind die Wetterfronten, die ein Tiefdruckgebiet begleiten: Kalt-, Warm- und Okklusionsfront markieren die Grenzen zwischen den beteiligten Luftmassen und bestimmen, wie sich das Wetter beim Durchzug verändert. Infolge der Corioliskraft rotieren Tiefdruckgebiete auf der Nordhalbkugel gegen den Uhrzeigersinn, auf der Südhalbkugel im Uhrzeigersinn.
+Tiefdruckgebiete (Zyklone) gehören zu den prägendsten Akteuren im Wettergeschehen. In der Meteorologie werden sie zunächst nach ihrer Entstehungsart in thermische und dynamische Tiefs eingeordnet. Beiden gemeinsam ist, dass sie verfügbare potenzielle Energie in kinetische Energie umsetzen: Warme Luft steigt auf, kalte Luft sinkt ab. Bei dynamischen Tiefs ist dieser Prozess deutlich ausgeprägter als bei thermischen. Darüber hinaus unterscheidet man zwischen stationären Zyklonen, die über längere Zeit an einem Ort verharren, und wandernden Zyklonen, die sich mit der Höhenströmung über weite Strecken verlagern. Besonders charakteristisch für dynamische Tiefs sind die begleitenden Wetterfronten: Kalt-, Warm- und Okklusionsfront markieren die Grenzen zwischen den beteiligten Luftmassen und bestimmen, wie sich das Wetter beim Durchzug verändert. Infolge der Corioliskraft rotieren großräumige Tiefdruckgebiete auf der Nordhalbkugel gegen den Uhrzeigersinn, auf der Südhalbkugel im Uhrzeigersinn.
 
 ![alt text](image-2.png)
 
 Die folgenden Abschnitte beleuchten diese Aspekte näher: die Entstehung und Einteilung der Zyklone, ihr Zugverhalten sowie den Aufbau und die Wirkung der einzelnen Fronten.
 
 ### Thermische Tiefdruckgebiete (ortsfest / "stationär")
-Thermische Tiefs, auch Hitzetiefs genannt, entstehen rein durch Temperaturunterschiede am Boden: Die Sonne heizt den Erdboden stark auf, und dieser gibt die Wärme an die darüberliegende Luft ab. Die erwärmte Luftsäule dehnt sich aus, wodurch sich die Flächen gleichen Drucks in der Höhe heben. Dort fließt Luft seitlich ab, die Luftsäule enthält weniger Masse, und der Luftdruck am Boden sinkt. In Bodennähe strömt von den Seiten kühlere Luft nach, die sich ihrerseits erwärmt und aufsteigt. Weil die Ursache im aufgeheizten Untergrund liegt, bleibt das Tief ortsfest, solange die Einstrahlung anhält.
+Thermische Tiefs, auch Hitzetiefs genannt, entstehen rein durch Temperaturunterschiede am Boden: Die Sonne heizt den Erdboden stark auf, und dieser gibt die Wärme an die darüberliegende Luft ab. Die erwärmte Luftsäule dehnt sich aus, wodurch sich die Flächen gleichen Drucks in der Höhe heben. Dort fließt Luft seitlich ab, die Luftsäule enthält weniger Masse, und der Luftdruck am Boden sinkt. In Bodennähe strömt von den Seiten kühlere Luft nach, die sich ihrerseits erwärmt und aufsteigt. Weil die Ursache im aufgeheizten Untergrund liegt, bleibt das Tief ortsfest, solange die Einstrahlung anhält. 
 
 Thermische Tiefs sind meist flach, sie reichen also nur bis in die unteren Luftschichten. In der Höhe herrscht aufgrund der ausgedehnten, warmen Luftsäule oft sogar höherer Druck. Weil keine unterschiedlichen Luftmassen aufeinandertreffen, bilden sich keine Fronten. Die Corioliskraft wirkt wegen der geringen Ausdehnung und der oft niedrigen Breiten nur schwach, die Rotation ist daher wenig ausgeprägt.
 
@@ -54,16 +53,12 @@ Je nach Temperaturunterschied der beteiligten Kaltluftmassen unterscheidet man z
 
 Das Wetter vereint Merkmale beider Fronten: Zunächst zieht Aufgleitbewölkung mit anhaltendem Niederschlag auf, danach können schauerartige Niederschläge folgen. Der Wind ist in der Regel im Vorfeld stark und böig, lässt aber mit fortschreitender Okklusion nach, weil sich die Druckgegensätze abbauen. Nach dem Durchzug folgt meist Rückseitenwetter, das oft noch von einzelnen Schauern geprägt ist, sodass sich das Wetter nicht sofort vollständig beruhigt.
 
-### Besondere Tiefdruckgebiete
-
-
-
 ## Hochdruckgebiet
 
 
-Willkommen im meteorologischen Rabbit Hole! Es ist absolut faszinierend, weil alles wie ein riesiges, logisches Zahnradgetriebe ineinandergreift.
-Um deine Frage sofort direkt zu beantworten: Doch, es gibt absolut dynamische Hochdruckgebiete! Deine Vermutung, dass sie keine Fronten haben, ist völlig richtig – aber die Entstehung funktioniert genau wie bei den Tiefs über die Dynamik des Jetstreams in der Höhe.
-Meteorologen unterscheiden auch bei den Hochs (Antizyklonen) exakt zwischen thermischen und dynamischen Systemen. So gliedern sie sich auf:
+
+### 
+
 
 1. Thermische Hochdruckgebiete (Kälte-Hochs)
 
@@ -79,12 +74,6 @@ Genau wie die dynamischen Tiefs werden diese Hochs vom Jetstream in der Höhe ge
 • Wo du sie findest: Das Azorenhoch (Teil des subtropischen Hochdruckgürtels) ist das bekannteste dynamische Hoch für uns. Manchmal spaltet sich von diesem Gürtel ein Hoch ab und wandert als "Zwischenhoch" zwischen zwei dynamischen Tiefs über Mitteleuropa hinweg.
 • Das "Omegahoch": Wenn so ein dynamisches Hoch sehr groß wird, kann es tagelang oder wochenlang wie ein massiver Block an Ort und Stelle verharren (stationär werden) und alle Tiefs um Mitteleuropa herumleiten. Das bringt uns dann die langen, stabilen Sommer-Hitzewellen.
 
-Warum haben Hochs keine Fronten?
-
-Du hast völlig recht, ein Hoch hat keine Warm- oder Kaltfronten. Das liegt an der Strömungsrichtung:
-• Im Tief strömt die Luft am Boden im Kern zusammen (Konvergenz) und saugt unterschiedliche Luftmassen (warm und kalt) aktiv an und lässt sie kollidieren. Diese Kollisionslinien sind die Fronten.
-• Im Hoch sinkt die Luft aus der Höhe ab und fließt am Boden nach allen Seiten auseinander (Divergenz). Das Hoch drückt die Luftmassen also von sich weg, anstatt sie gegeneinander zu führen. Deswegen gibt es im Hochdruckgebiet homogene, ruhige Luftmassen und keine Fronten.
-Jetzt, wo wir die Puzzleteile zusammenhaben: Möchtest du sehen, wie das Zusammenspiel aus dem Azorenhoch (dynamisch) und dem Islandtief (dynamisch) unser alltägliches Wetter in Europa diktiert?
 
 ## Wetterkarten
 
